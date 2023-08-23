@@ -27,7 +27,7 @@ class _MassagePageState extends State<MassagePage> {
 
   @override
   Widget build(BuildContext context) {
-    SchedulerBinding.instance!.addPostFrameCallback((_) {
+    SchedulerBinding.instance.addPostFrameCallback((_) {
       _mycontroller.jumpTo(_mycontroller.position.maxScrollExtent);
     });
     return ListView(
