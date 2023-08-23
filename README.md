@@ -1,16 +1,44 @@
-# flutter_whatsapp_ui_clone
+# Flutter Whatsapp ui clone
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## WhatsApp App Ui Clone Preview
 
-A few resources to get you started if this is your first Flutter project:
+<table>
+  
+  
+<tr>                    
+   <th> Home Screen View</th>
+   <th> Chat Screen View</th>
+   <th> Status Screen View</th>
+   <th> Camera Screen View</th>
+  
+</tr>  
+  
+  
+  
+<tr>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<td>
+  <img src="https://github.com/mdsomad/flutter_whatsapp_ui_clone/assets/103892160/02cf220a-d3c8-4fe9-a91f-ed17c21b8a4b" width="280"/>
+</td>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<td>
+  <img src="https://github.com/mdsomad/flutter_whatsapp_ui_clone/assets/103892160/b35684fe-4098-4f9e-b2d2-812d767aeecc" width="280"/>
+ 
+</td>
+
+<td>
+  <img src="https://github.com/mdsomad/flutter_whatsapp_ui_clone/assets/103892160/520c4603-e21b-40db-900b-eddb1767a386" width="280"/>
+</td>
+<td>
+  <img src="https://github.com/mdsomad/flutter_whatsapp_ui_clone/assets/103892160/8f08db08-1f57-4e7e-89ab-14c1f1ea2c9e" width="280"/>
+</td>
+
+
+</tr>
+
+</table>
+
+
